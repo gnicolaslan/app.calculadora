@@ -24,4 +24,5 @@ if(operacion === "sumar"){
 }
 
 
+//console.log(resultado)
 console.log(resultado)
